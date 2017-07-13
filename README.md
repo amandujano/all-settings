@@ -1,0 +1,2 @@
+# all-settings
+foo settings
