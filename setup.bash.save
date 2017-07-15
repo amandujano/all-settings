@@ -1,0 +1,5 @@
+
+echo "install nginx";
+sudo docker run --name nginx -v $(pwd)/nginx/conf:/usr/share/nginx/html:ro -d nginx
+
+
